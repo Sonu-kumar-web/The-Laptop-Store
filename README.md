@@ -1,5 +1,6 @@
-# The-Laptop-Stroe
- <b>The Laptop Store</b> is simple web app. It is developed by using HTML, CSS, Javascript and Node. 
+# The-Laptop-Store
+ <b>The Laptop Store</b> is simple web app.<br>
+ **Technology used:** HTML, CSS, Javascript and Node.<br>
 #### Setup the Project
 1. Clone or Download the Repo.
 2. `cd The-Laptop-Store` goto the Repo using Terminal.
